@@ -1,6 +1,46 @@
 .col-md-6 {
-    background: #e8eeed;
+    background-image: url('./asset/img/bg\ pic\ Login.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:100%;
+    font-size: 100%;
+    padding: 0;
+    margin: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    
+    /* background: #b34949; */
+     padding-left: 20%;
+    right: 2rem;
+    gap: 1.5rem;
+    margin-bottom:10%;
+    position:fixed;
+    
 }
 .form-control {
-    background-color: #cab8ca8f;
+    background-color: #d8c5e48f;
+    width: 60%;
+    
+    
 }
+.bg-secondary {
+    background-color: rgb(206, 216, 227);
+    cursor: auto;
+}
+.card {
+    gap: 1.5rem;
+    width: 38%;
+    left: 49.6rem;
+    padding-top: 20px;
+    height:100vh;
+    background-color:rgb(237, 240, 246);
+}
+h2{
+    font-family: 'Poppins', sans-serif;
+    color: #0e0e0e;
+    font-size: 2em;
+    font-weight: 400;
+    text-align:center;  
+}
+ 
